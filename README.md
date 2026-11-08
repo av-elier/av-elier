@@ -3,7 +3,7 @@
 
 - I’m currently working in [tradingview.com](https://tradingview.com)
 - I’m playing with my own domain services [avelier.dev](https://avelier.dev)
-- How to reach me: t.me/av_elier
+- How to reach me: [linkedin.com/in/aleksei-pozdniakov-92a567113](http://www.linkedin.com/in/aleksei-pozdniakov-92a567113)
 
 <!--
 **av-elier/av-elier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
